@@ -1,22 +1,22 @@
-#elder-date
+# elder-date
 
 Displays the current date in the format used in the Elder Scrolls video game series
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 elder-date
 ```
 
-##Explanation
+## Explanation
 
-###Months
+### Months
 
 | Elder Scrolls | Gregorian |
 | ------------- | --------- |
@@ -33,7 +33,7 @@ elder-date
 | Sun's Dusk    | November  |
 | Evening Star  | December  |
 
-###Days of the Week
+### Days of the Week
 
 | Elder Scrolls | Gregorian |
 | ------------- | --------- |
